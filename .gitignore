@@ -1,0 +1,53 @@
+# Env
+.env
+
+# Assets
+dist
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# dotenv environment variables file
+.env
+.DS_Store
+
+# webstorm project file
+.idea
+
+.Trash*
+
+
+# vscode
+.vscode/
+
+# TypeScript
+*.tsbuildinfo
+
+# Cache
+cache
+
+# Compiled files
+dist/
